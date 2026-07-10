@@ -13,7 +13,7 @@ Voici la liste complète de mes accomplissements, classés par thématiques tech
 | Thématique | Certification / Badge | Date d'obtention | Validation |
 | :--- | :--- | :---: | :---: |
 | **DevOps / Cloud** | L'essentiel d'Ansible : automatiser en toute simplicité | 19 Jan 2026 | [Certificat](certificates-optionals/certificate-ansible.pdf) |
-| **DevOps / Cloud** | Introduction to Containers, Kubernetes, and OpenShift | 19 Jan 2026 | [Vérifier](certificates-optionals/certificate-ansible.pdf) |
+| **DevOps / Cloud** | Introduction to Containers, Kubernetes, and OpenShift | 19 Jan 2026 | [Vérifier](certificates-optionals/certificate-containerization-1.pdf) |
 | **DevOps / Cloud** | Introduction to Cloud | 02 Déc 2025 | [Vérifier](certificates-trimester-3/certificate-cloud.pdf) |
 | **Data & Architecture** | Introduction to Open Source | 19 Juin 2025 | [Vérifier](certificates-trimester-1/certificate-oss.pdf) |
 | **Data & Architecture** | SQL and Relational Databases 101 | 22 Sept 2025 | [Vérifier](certificates-trimester-2/certificate-sql.pdf) |
