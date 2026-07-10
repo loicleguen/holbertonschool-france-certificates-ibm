@@ -13,13 +13,13 @@ Voici la liste complète de mes accomplissements, classés par thématiques tech
 | Thématique | Certification / Badge | Date d'obtention | Validation |
 | :--- | :--- | :---: | :---: |
 | **DevOps / Cloud** | L'essentiel d'Ansible : automatiser en toute simplicité | 19 Jan 2026 | [Certificat](certificates-optionals/certificate-ansible.pdf) |
-| **DevOps / Cloud** | Introduction to Containers, Kubernetes, and OpenShift | 19 Jan 2026 | [Vérifier](https://courses.skillsbuild.skillsnetwork.site/certificates/b5c3f1fdca334215948ac31a0ed404b0) |
-| **DevOps / Cloud** | Introduction to Cloud | 02 Déc 2025 | [Vérifier](https://courses.skillsbuild.skillsnetwork.site/certificates/e0bdf45c58314f6a449ea1a29a6bd60) |
-| **Data & Architecture** | Introduction to Open Source | 19 Juin 2025 | [Vérifier](https://courses.skillsbuild.skillsnetwork.site/certificates/e8f53b7f7a454bb2b2b1c7be404a3ebe) |
-| **Data & Architecture** | SQL and Relational Databases 101 | 22 Sept 2025 | [Vérifier](https://courses.skillsbuild.skillsnetwork.site/certificates/ec5c210937dc476c9be6ead5a76be08f) |
-| **Methodology & Security** | Agile Explorer | 07 Aoû 2025 | [Credly Badge](https://www.credly.com/badges/4133c156-2271-4d6a-9e8e-59c4134dab2e) |
-| **Methodology & Security** | Project Management Fundamentals | 17 Sept 2025 | [Credly Badge](https://www.credly.com/go/8JIQ8ZI7) |
-| **Methodology & Security** | Cybersecurity Fundamentals | 02 Déc 2025 | [Credly Badge](https://www.credly.com/badges/7451ecc9-b1e9-49ee-bf66-0572313c0df8) |
+| **DevOps / Cloud** | Introduction to Containers, Kubernetes, and OpenShift | 19 Jan 2026 | [Vérifier](certificates-optionals/certificate-ansible.pdf) |
+| **DevOps / Cloud** | Introduction to Cloud | 02 Déc 2025 | [Vérifier](certificates-trimester-3/certificate-cloud.pdf) |
+| **Data & Architecture** | Introduction to Open Source | 19 Juin 2025 | [Vérifier](certificates-trimester-1/certificate-oss.pdf) |
+| **Data & Architecture** | SQL and Relational Databases 101 | 22 Sept 2025 | [Vérifier](certificates-trimester-2/certificate-sql.pdf) |
+| **Methodology & Security** | Agile Explorer | 07 Aoû 2025 | [Credly Badge](certificates-trimester-1/IBMDesign20250821-31-ex42iv.pdf) |
+| **Methodology & Security** | Project Management Fundamentals | 17 Sept 2025 | [Credly Badge](certificates-trimester-2/certificate-project-management-1.pdf) |
+| **Methodology & Security** | Cybersecurity Fundamentals | 02 Déc 2025 | [Credly Badge](certificates-trimester-3/certificate-cyber-1.pdf) |
 
 ---
 
